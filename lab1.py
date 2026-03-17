@@ -9,3 +9,9 @@ print("22 divided by 7 is:", 22/7)
 operation="sum"
 total=8
 print(operation + "is" + str(total)) 
+
+#area of a rectangle
+length = 10
+width = 5
+area = length*width
+print("the area of the rectangle with length " + str(length) + "and width" + str(width) + "is" + str(area))
